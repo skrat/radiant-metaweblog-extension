@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="26"
+   name=""
+   committed-date="2008-03-06T08:08:23.943425Z"
+   url="http://feed-me.googlecode.com/svn/trunk/meta_weblog/test"
+   last-author="dusan.maliarik"
+   kind="dir"
+   uuid="5fff0615-ef46-0410-a302-953979b684d5"
+   repos="http://feed-me.googlecode.com/svn"
+   revision="49"/>
+<entry
+   name="unit"
+   kind="dir"/>
+<entry
+   committed-rev="26"
+   name="test_helper.rb"
+   text-time="2008-03-06T09:21:05.000000Z"
+   committed-date="2008-03-06T08:08:23.943425Z"
+   checksum="5a4598a3b35b17fba6a2569e34893c4b"
+   last-author="dusan.maliarik"
+   kind="file"
+   prop-time="2008-03-06T09:21:05.000000Z"/>
+<entry
+   name="functional"
+   kind="dir"/>
+<entry
+   name="fixtures"
+   kind="dir"/>
+</wc-entries>

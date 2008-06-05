@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="49"
+   name=""
+   committed-date="2008-03-14T10:40:02.324391Z"
+   url="http://feed-me.googlecode.com/svn/trunk/meta_weblog/lib"
+   last-author="dusan.maliarik"
+   kind="dir"
+   uuid="5fff0615-ef46-0410-a302-953979b684d5"
+   repos="http://feed-me.googlecode.com/svn"
+   revision="49"/>
+<entry
+   committed-rev="46"
+   name="radiant_web_service.rb"
+   text-time="2008-03-13T12:21:01.000000Z"
+   committed-date="2008-03-13T12:07:52.664156Z"
+   checksum="a1d9ee20685d3703668fc8d22635e235"
+   last-author="dusan.maliarik"
+   kind="file"
+   prop-time="2008-03-13T12:21:01.000000Z"/>
+<entry
+   committed-rev="49"
+   name="blogger_service.rb"
+   text-time="2008-03-14T10:40:09.000000Z"
+   committed-date="2008-03-14T10:40:02.324391Z"
+   checksum="4248fdd614166215ba8a626d0fc16bc3"
+   last-author="dusan.maliarik"
+   kind="file"
+   prop-time="2008-03-14T10:40:09.000000Z"/>
+<entry
+   name="tasks"
+   kind="dir"/>
+<entry
+   committed-rev="49"
+   name="meta_weblog_service.rb"
+   text-time="2008-03-14T10:40:09.000000Z"
+   committed-date="2008-03-14T10:40:02.324391Z"
+   checksum="28c1b030c414f6f9eda801fe1225c87f"
+   last-author="dusan.maliarik"
+   kind="file"
+   prop-time="2008-03-14T10:40:09.000000Z"/>
+<entry
+   committed-rev="30"
+   name="movable_type_service.rb"
+   text-time="2008-03-06T11:07:58.000000Z"
+   committed-date="2008-03-06T11:07:37.767651Z"
+   checksum="89da68617056de458ff745d2e9c0a649"
+   last-author="dusan.maliarik"
+   kind="file"
+   prop-time="2008-03-06T11:07:57.000000Z"/>
+<entry
+   committed-rev="27"
+   name="xmlrpc_fix.rb"
+   text-time="2008-03-06T09:21:06.000000Z"
+   committed-date="2008-03-06T08:54:57.888836Z"
+   checksum="89d1da9f4c89f38c29a52c646ee02adc"
+   last-author="dusan.maliarik"
+   kind="file"
+   prop-time="2008-03-06T09:21:06.000000Z"/>
+</wc-entries>
